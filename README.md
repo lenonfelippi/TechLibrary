@@ -11,11 +11,11 @@ O app consiste basicamente em uma estante de livros onde o usuário poderá orga
 
 ## Features
 
-- 2 listagens de livros (prateleiras).\
-- Permite a troca das posições dos livros arrastando e soltando, podendo ser para a mesma prateleira ou não.\
-- Ao selecionar um tipo de sort, e clicar em “Organize” a ordenação deve é aplicada a cada prateleira separadamente levando em conta os livros presentes.\
-- Inverter a ordem quando clicar novamente no botão, caso a mesma opção de sort esteja selecionada.\
-- Relógio funcionando.\
+- 2 listagens de livros (prateleiras).
+- Permite a troca das posições dos livros arrastando e soltando, podendo ser para a mesma prateleira ou não.
+- Ao selecionar um tipo de sort, e clicar em “Organize” a ordenação deve é aplicada a cada prateleira separadamente levando em conta os livros presentes.
+- Inverter a ordem quando clicar novamente no botão, caso a mesma opção de sort esteja selecionada.
+- Relógio funcionando.
 
 Os tipos de ordenação são: 
 - Ordem alfabética,
